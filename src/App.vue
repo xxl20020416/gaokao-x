@@ -14,9 +14,4 @@ export default {
 </script>
 
 <style lang =less>
-.box{
-  width: 300px;
-  height: 100px;
-  background-color: beige;
-}
 </style>
